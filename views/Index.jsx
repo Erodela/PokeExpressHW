@@ -1,8 +1,8 @@
 const React = require("react");
-const pokemon = require("../models/pokemon");
+const p = require("../models/pokemon");
 const myStyle = {
   color: "#ffffff",
-  backgroundColor: "#000000",
+  backgroundColor: "#DB5461",
 };
 
 class Index extends React.Component {
